@@ -38,8 +38,8 @@
   <text x="50" y="274" fill="#8b949e" font-family="sans-serif" font-size="10" text-anchor="end">0</text>
 
   <!-- Filled Gradient Area under line -->
-  <polygon points="60,270 60.0,265.7 136.0,265.7 212.0,265.7 288.0,265.7 364.0,265.7 440.0,265.7 516.0,265.7 592.0,265.7 668.0,265.7 744.0,265.7 820.0,265.7 820,270" fill="url(#grad)"/>
+  <polygon points="60,270 60.0,265.7 129.1,265.7 198.2,265.7 267.3,265.7 336.4,265.7 405.5,265.7 474.5,265.7 543.6,265.7 612.7,265.7 681.8,265.7 750.9,265.7 820.0,265.7 820,270" fill="url(#grad)"/>
 
   <!-- Main Trend Line -->
-  <polyline points="60.0,265.7 136.0,265.7 212.0,265.7 288.0,265.7 364.0,265.7 440.0,265.7 516.0,265.7 592.0,265.7 668.0,265.7 744.0,265.7 820.0,265.7" fill="none" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <polyline points="60.0,265.7 129.1,265.7 198.2,265.7 267.3,265.7 336.4,265.7 405.5,265.7 474.5,265.7 543.6,265.7 612.7,265.7 681.8,265.7 750.9,265.7 820.0,265.7" fill="none" stroke="url(#lineGrad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
