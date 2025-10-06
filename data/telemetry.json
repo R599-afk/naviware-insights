@@ -1,6 +1,6 @@
 {
   "date": "2025-10-06",
-  "timestamp": "2025-10-06T17:47:42",
+  "timestamp": "2025-10-06T20:09:52",
   "active_licenses": 70,
   "seen_24h": 15,
   "seen_7d": 25,
@@ -8,7 +8,7 @@
   "countries": 18,
   "bound_hwids": 68,
   "cumulative_requests": 24747,
-  "service_availability_percent": 99.92,
-  "avg_response_latency_ms": 15.44,
+  "service_availability_percent": 99.93,
+  "avg_response_latency_ms": 24.44,
   "status": "operational"
 }
