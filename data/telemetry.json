@@ -1,14 +1,14 @@
 {
-  "date": "2025-10-07",
-  "timestamp": "2025-10-07T18:01:47",
+  "date": "2025-10-08",
+  "timestamp": "2025-10-08T09:01:26",
   "active_licenses": 70,
   "seen_24h": 15,
   "seen_7d": 25,
   "seen_30d": 35,
   "countries": 18,
   "bound_hwids": 68,
-  "cumulative_requests": 25091,
-  "service_availability_percent": 99.96,
-  "avg_response_latency_ms": 21.89,
+  "cumulative_requests": 25371,
+  "service_availability_percent": 99.88,
+  "avg_response_latency_ms": 26.3,
   "status": "operational"
 }
