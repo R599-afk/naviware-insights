@@ -1,6 +1,6 @@
 {
   "date": "2025-12-18",
-  "timestamp": "2025-12-18T10:59:53",
+  "timestamp": "2025-12-18T14:25:51",
   "active_licenses": 70,
   "seen_24h": 15,
   "seen_7d": 25,
@@ -9,6 +9,6 @@
   "bound_hwids": 68,
   "cumulative_requests": 63259,
   "service_availability_percent": 99.89,
-  "avg_response_latency_ms": 24.74,
+  "avg_response_latency_ms": 18.94,
   "status": "operational"
 }
