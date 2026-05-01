@@ -780,3 +780,4 @@
 - `2026-04-30` | Active Users: **10** | Req: **2,070** | Availability: **99.96%**
 - `2026-04-30` | Active Users: **10** | Req: **2,070** | Availability: **99.92%**
 - `2026-04-30` | Active Users: **10** | Req: **2,070** | Availability: **99.92%**
+- `2026-05-01` | Active Users: **12** | Req: **1,704** | Availability: **99.93%**
