@@ -1,14 +1,14 @@
 {
-  "date": "2026-05-16",
-  "timestamp": "2026-05-16T16:36:49",
+  "date": "2026-05-17",
+  "timestamp": "2026-05-17T08:43:42",
   "active_licenses": 70,
   "seen_24h": 15,
   "seen_7d": 25,
   "seen_30d": 35,
   "countries": 18,
   "bound_hwids": 68,
-  "cumulative_requests": 284298,
-  "service_availability_percent": 99.89,
-  "avg_response_latency_ms": 19.82,
+  "cumulative_requests": 287350,
+  "service_availability_percent": 99.96,
+  "avg_response_latency_ms": 18.89,
   "status": "operational"
 }
