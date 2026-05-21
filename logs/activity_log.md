@@ -840,3 +840,4 @@
 - `2026-05-20` | Active Users: **13** | Req: **2,184** | Availability: **99.89%**
 - `2026-05-20` | Active Users: **13** | Req: **2,184** | Availability: **99.96%**
 - `2026-05-21` | Active Users: **12** | Req: **2,280** | Availability: **99.9%**
+- `2026-05-21` | Active Users: **12** | Req: **2,280** | Availability: **99.91%**
