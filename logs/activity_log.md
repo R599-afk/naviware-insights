@@ -849,3 +849,4 @@
 - `2026-05-23` | Active Users: **14** | Req: **2,254** | Availability: **99.92%**
 - `2026-05-24` | Active Users: **13** | Req: **3,016** | Availability: **99.91%**
 - `2026-05-25` | Active Users: **12** | Req: **2,364** | Availability: **99.91%**
+- `2026-05-25` | Active Users: **12** | Req: **2,364** | Availability: **99.95%**
