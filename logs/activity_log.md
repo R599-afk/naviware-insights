@@ -853,3 +853,4 @@
 - `2026-05-25` | Active Users: **12** | Req: **2,364** | Availability: **99.97%**
 - `2026-05-25` | Active Users: **12** | Req: **2,364** | Availability: **99.92%**
 - `2026-05-25` | Active Users: **12** | Req: **2,364** | Availability: **99.91%**
+- `2026-05-26` | Active Users: **14** | Req: **2,282** | Availability: **99.92%**
