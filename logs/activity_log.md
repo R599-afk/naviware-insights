@@ -874,3 +874,4 @@
 - `2026-05-31` | Active Users: **13** | Req: **1,885** | Availability: **99.9%**
 - `2026-05-31` | Active Users: **13** | Req: **1,885** | Availability: **99.88%**
 - `2026-06-01` | Active Users: **13** | Req: **2,847** | Availability: **99.9%**
+- `2026-06-01` | Active Users: **13** | Req: **2,847** | Availability: **99.95%**
